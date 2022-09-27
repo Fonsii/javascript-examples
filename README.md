@@ -24,10 +24,3 @@ Run the code and have fun!
     
 
 **This project uses English**
-
-
-Abrir archivo, cada folder es un ejemplo diferente
-
-    cd javascript-examples
-
-Instalar nodejs, para los archivos html necesita de un navegador como Chrome, Edge o Safari
